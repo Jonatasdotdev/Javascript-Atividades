@@ -1,0 +1,15 @@
+body{
+    display:block;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    background-color: black;
+}
+button{
+    padding:5px;
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: white;
+    border-color:azure;
+    cursor: pointer;
+}
